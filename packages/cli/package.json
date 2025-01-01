@@ -46,7 +46,7 @@
     "@subql/common-substrate": "workspace:*",
     "@types/ejs": "^3.1.5",
     "@types/fs-extra": "^11.0.4",
-    "@types/node": "^18.19.42",
+    "@types/node": "^20.8.4",
     "@types/semver": "^7.5.8",
     "@types/update-notifier": "^6",
     "@types/websocket": "^1",

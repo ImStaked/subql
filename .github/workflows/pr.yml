@@ -12,7 +12,7 @@ jobs:
     - name: Setup Node.js environment
       uses: actions/setup-node@v4
       with:
-        node-version: 18
+        node-version: 20
     - run: yarn
     - name: build
       run: yarn build
@@ -54,7 +54,7 @@ jobs:
         - name: Use Node 18
           uses: actions/setup-node@v4
           with:
-              node-version: 18
+              node-version: 20
 
         - name: install dependencies
           run: yarn
